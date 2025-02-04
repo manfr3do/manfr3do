@@ -1,4 +1,4 @@
-## Hi there 👋
+## Business informatics student @ HAW Hamburg.
 
 <!--
 **manfr3do/manfr3do** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
